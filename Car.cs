@@ -7,9 +7,7 @@ using System.Threading.Tasks;
 namespace C_Sharp_Learning
 {
     public class Car : Vehicle
-    {
-        public string licensePlate;
-
+    {        
         public Car(string inputLicensePlate, string inputManufacturer)
         {
             licensePlate = "Unknown";

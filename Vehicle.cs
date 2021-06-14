@@ -10,6 +10,7 @@ namespace C_Sharp_Learning
     {
         public int wheels;
         public string manufacturer;
+        public string licensePlate;
 
         public int getWheels()
         {
